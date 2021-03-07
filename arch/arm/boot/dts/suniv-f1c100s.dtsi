@@ -223,7 +223,7 @@
 				function = "uart0";
 			};
 			
-			uart0_pa_pins: uart0-pe-pins {
+			uart1_pa_pins: uart0-pe-pins {
 				pins = "PA2", "PA3";
 				function = "uart0";
 			};
