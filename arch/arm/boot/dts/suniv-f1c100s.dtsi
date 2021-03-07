@@ -225,7 +225,7 @@
 			
 			uart1_pa_pins: uart1-pa-pins {
 				pins = "PA2", "PA3";
-				function = "uart0";
+				function = "uart1";
 			};
 
 			mmc0_pins: mmc0-pins {
